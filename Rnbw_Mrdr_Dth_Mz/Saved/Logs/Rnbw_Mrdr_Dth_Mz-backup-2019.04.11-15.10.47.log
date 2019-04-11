@@ -1,0 +1,1208 @@
+﻿Log file open, 04/10/19 14:52:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Rnbw_Mrdr_Dth_Mz
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.575006
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.320s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.050s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.10-18.52.50:503][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.10-18.52.50:503][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.10-18.52.50:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:503][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.10-18.52.50:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:503][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:503][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.10-18.52.50:504][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.10-18.52.50:505][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.10-18.52.50:505][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:505][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:513][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:513][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.10-18.52.50:514][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.10-18.52.50:515][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.10-18.52.50:516][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.10-18.52.50:517][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.10-18.52.50:517][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-18.52.50:517][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.10-18.52.50:593][  0]LogHAL: Display: Platform has ~ 16 GB [17015091200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.10-18.52.50:593][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.10-18.52.50:593][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.10-18.52.50:593][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.10-18.52.50:593][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.10-18.52.50:593][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.10-18.52.50:594][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.10-18.52.50:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.10-18.52.50:596][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.10-18.52.50:597][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.10-18.52.50:597][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.10-18.52.50:597][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Config/Windows/Engine.ini]
+[2019.04.10-18.52.50:597][  0]LogInit: Computer: MIATHYRA
+[2019.04.10-18.52.50:598][  0]LogInit: User: kaitl
+[2019.04.10-18.52.50:598][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.04.10-18.52.50:598][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.10-18.52.50:598][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.04.10-18.52.50:598][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.10-18.52.50:599][  0]LogMemory: Process Physical Memory: 103.76 MB used, 103.77 MB peak
+[2019.04.10-18.52.50:599][  0]LogMemory: Process Virtual Memory: 86.17 MB used, 86.17 MB peak
+[2019.04.10-18.52.50:599][  0]LogMemory: Physical Memory: 5031.71 MB used,  11195.15 MB free, 16226.86 MB total
+[2019.04.10-18.52.50:599][  0]LogMemory: Virtual Memory: 4647.99 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.10-18.52.51:355][  0]LogInit: Using OS detected language (en-US).
+[2019.04.10-18.52.51:355][  0]LogInit: Using OS detected locale (en-CA).
+[2019.04.10-18.52.51:359][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.10-18.52.52:397][  0]LogStreaming: Display: Took  1.043s to InitEngineTextLocalization.
+[2019.04.10-18.52.52:398][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.10-18.52.52:533][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.10-18.52.52:533][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.10-18.52.53:325][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-18.52.53:325][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.10-18.52.53:524][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.10-18.52.53:524][  0]LogD3D11RHI:       6052/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.10-18.52.53:571][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.10-18.52.53:571][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.10-18.52.53:577][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.10-18.52.53:577][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.10-18.52.53:577][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.10-18.52.53:664][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.10-18.52.53:664][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.10-18.52.53:664][  0]LogWindows: EnumDisplayDevices:
+[2019.04.10-18.52.53:665][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.04.10-18.52.53:666][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.10-18.52.53:667][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.10-18.52.53:669][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.10-18.52.53:670][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.10-18.52.53:671][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.10-18.52.53:672][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.10-18.52.53:673][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.10-18.52.53:673][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.10-18.52.53:673][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2019.04.10-18.52.53:673][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2019.04.10-18.52.53:673][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.10-18.52.53:791][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.10-18.52.53:819][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.10-18.52.54:897][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.10-18.52.54:940][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.10-18.52.54:980][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.10-18.52.55:025][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.10-18.52.55:066][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.10-18.52.55:106][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.10-18.52.55:151][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.10-18.52.55:192][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.10-18.52.55:213][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:445][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-18.52.55:449][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.10-18.52.55:565][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-18.52.55:565][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-18.52.55:635][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-18.52.55:635][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-18.52.55:672][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.10-18.52.55:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.10-18.52.55:746][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.10-18.52.55:793][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.10-18.52.55:951][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-18.52.55:951][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-18.52.55:951][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.10-18.52.56:160][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Intermediate/Shaders/WorkingDirectory/9440/).
+[2019.04.10-18.52.56:161][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kaitl/AppData/Local/Temp/UnrealShaderWorkingDir/0F6963BD4EC9B55C3ED49F97EA2E3B29/'.
+[2019.04.10-18.52.56:168][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.10-18.52.56:169][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.10-18.52.56:169][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.10-18.52.57:902][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-18.52.58:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.10-18.52.58:096][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.10-18.52.58:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-18.52.58:096][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.10-18.52.58:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kaitl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.10-18.52.58:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.10-18.52.58:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.10-18.52.58:185][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.10-18.52.58:190][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.10-18.52.58:192][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.10-18.52.58:477][  0]LogAssetRegistry: FAssetRegistry took 0.0580 seconds to start up
+[2019.04.10-18.52.59:458][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-18.52.59:960][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.10-18.52.59:972][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.10-18.52.59:972][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.10-18.52.59:972][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.10-18.52.59:972][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.10-18.53.00:031][  0]LogNetVersion: Rnbw_Mrdr_Dth_Mz 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3860807895)
+[2019.04.10-18.53.02:011][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.539268 seconds
+[2019.04.10-18.53.02:029][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.10-18.53.02:029][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.10-18.53.02:029][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.10-18.53.05:176][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.10-18.53.05:193][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.10-18.53.07:545][  0]SourceControl: Source control is disabled
+[2019.04.10-18.53.07:545][  0]SourceControl: Source control is disabled
+[2019.04.10-18.53.07:549][  0]SourceControl: Source control is disabled
+[2019.04.10-18.53.07:552][  0]SourceControl: Source control is disabled
+[2019.04.10-18.53.07:862][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.10-18.53.08:864][  0]LogOcInput: OculusInput pre-init called
+[2019.04.10-18.53.09:119][  0]LogEngine: Initializing Engine...
+[2019.04.10-18.53.09:122][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-18.53.09:125][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-18.53.09:125][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-18.53.09:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-18.53.09:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-18.53.09:802][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.10-18.53.09:848][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.10-18.53.09:891][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-18.53.10:468][  0]LogInit: FAudioDevice initialized.
+[2019.04.10-18.53.10:469][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.10-18.53.10:943][  0]LogDerivedDataCache: Saved boot cache 0.47s 71MB C:/Users/kaitl/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.10-18.53.10:970][  0]LogInit: Texture streaming: Enabled
+[2019.04.10-18.53.11:043][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.10-18.53.11:135][  0]LogInit: Transaction tracking system initialized
+[2019.04.10-18.53.11:247][  0]BlueprintLog: New page: Editor Load
+[2019.04.10-18.53.11:581][  0]LocalizationService: Localization service is disabled
+[2019.04.10-18.53.13:261][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.10-18.53.13:261][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.10-18.53.13:261][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.10-18.53.13:261][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-18.53.13:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-18.53.13:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-18.53.13:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-18.53.13:516][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/' took 0.25s
+[2019.04.10-18.53.13:743][  0]SourceControl: Source control is disabled
+[2019.04.10-18.53.13:744][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-18.53.13:896][  0]LightingResults: New page: Lighting Build
+[2019.04.10-18.53.13:908][  0]MapCheck: New page: Map Check
+[2019.04.10-18.53.13:908][  0]LightingResults: New page: Lighting Build
+[2019.04.10-18.53.23:078][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.04.10-18.53.23:290][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-18.53.23:392][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-18.53.23:393][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.336ms to complete.
+[2019.04.10-18.53.23:393][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 9.649
+[2019.04.10-18.53.23:927][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-18.53.23:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-18.53.23:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-18.53.23:999][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-18.53.24:045][  0]LogCollectionManager: Loaded 0 collections in 0.008876 seconds
+[2019.04.10-18.53.24:122][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Collections/' took 0.01s
+[2019.04.10-18.53.24:122][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/Developers/kaitl/Collections/' took 0.00s
+[2019.04.10-18.53.24:122][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/Collections/' took 0.00s
+[2019.04.10-18.53.24:122][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.10-18.53.24:149][  0]LogContentBrowser: Native class hierarchy populated in 0.0258 seconds. Added 2651 classes and 620 folders.
+[2019.04.10-18.53.24:219][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.04.10-18.53.24:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.24:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-18.53.25:672][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.10-18.53.25:741][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.04.10-18.53.26:699][  0]LogSlate: Took 0.000609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.10-18.53.26:705][  0]LogSlate: Took 0.000582 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.10-18.53.26:765][  0]LogSlate: Took 0.022471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.10-18.53.27:388][  0]LogRenderer: Reallocating scene render targets to support 968x440 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-18.53.27:992][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.10-18.53.27:992][  0]LogLoad: (Engine Initialization) Total time: 44.22 seconds
+[2019.04.10-18.53.27:992][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.10-18.53.28:258][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.10-18.53.28:991][  6]LogAssetRegistry: Asset discovery search completed in 30.5373 seconds
+[2019.04.10-18.53.29:000][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.10-18.53.29:000][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000225 seconds (updated 0 objects)
+[2019.04.10-18.53.30:822][  8]LogLinker: Warning: Can't find file '/Game/Swood'
+[2019.04.10-18.53.30:823][  8]LogLinker: Warning: Can't find file for asset '/Game/Swood' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/AdventurerCharacter.uasset.
+[2019.04.10-18.53.30:823][  8]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/AdventurerCharacter : Can't find file for asset. /Game/Swood
+[2019.04.10-18.53.33:507][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.33:507][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/AdventurerCharacter.uasset.
+[2019.04.10-18.53.33:507][  8]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/AdventurerCharacter : Can't find file for asset. /Game/Parent_Inst1
+[2019.04.10-18.53.38:130][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:130][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/AdventurerCharacter.uasset.
+[2019.04.10-18.53.38:181][  8]LogLinker: Warning: Can't find file '/Game/Swood'
+[2019.04.10-18.53.38:181][  8]LoadErrors: Failed to load /Game/Swood.Swood Referenced by Default__AdventurerCharacter_C
+[2019.04.10-18.53.38:181][  8]LogLinker: Warning: Can't find file for asset '/Game/Swood' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:181][  8]LoadErrors: Error: /Game/ProceduralRooms/DeathMazeHUD : Can't find file for asset. /Game/Swood
+[2019.04.10-18.53.38:182][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:182][  8]LoadErrors: Failed to load /Game/Parent_Inst1.Parent_Inst1 Referenced by Default__AdventurerCharacter_C
+[2019.04.10-18.53.38:182][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:183][  8]LoadErrors: Error: /Game/ProceduralRooms/DeathMazeHUD : Can't find file for asset. /Game/Parent_Inst1
+[2019.04.10-18.53.38:183][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:183][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:184][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:184][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:194][  8]LogLinker: Warning: Can't find file '/Game/Swood'
+[2019.04.10-18.53.38:194][  8]LogLinker: Warning: Can't find file for asset '/Game/Swood' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:194][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:195][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:195][  8]LogLinker: Warning: Can't find file '/Game/Parent_Inst1'
+[2019.04.10-18.53.38:195][  8]LogLinker: Warning: Can't find file for asset '/Game/Parent_Inst1' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:196][  8]LogLinker: Warning: Can't find file '/Game/Swood'
+[2019.04.10-18.53.38:196][  8]LogLinker: Warning: Can't find file for asset '/Game/Swood' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/DeathMazeHUD.uasset.
+[2019.04.10-18.53.38:370][  8]LogLinker: Warning: Can't find file '/Game/Swood'
+[2019.04.10-18.53.38:370][  8]LogLinker: Warning: Can't find file for asset '/Game/Swood' while loading ../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/AdventurerCharacter.uasset.
+[2019.04.10-18.53.41:108][  8]LogSlate: Took 0.038610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-18.53.41:116][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-18.53.41:132][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AdventurerCharacter.AdventurerCharacter
+[2019.04.10-18.53.43:523][  8]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 117 classes and 0 folders.
+[2019.04.10-18.53.50:417][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode
+[2019.04.10-18.53.51:517][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/DeadEnd_BP.DeadEnd_BP
+[2019.04.10-18.53.52:616][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/4Way_Room_BP.4Way_Room_BP
+[2019.04.10-18.53.53:876][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Balcony_Straight_BP.Balcony_Straight_BP
+[2019.04.10-18.53.54:856][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Starting_Room_BP.Starting_Room_BP
+[2019.04.10-18.53.55:915][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Finish_Room_BP.Finish_Room_BP
+[2019.04.10-18.53.56:992][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Straight_Room_BP.Straight_Room_BP
+[2019.04.10-18.53.58:032][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/TJunction_Room_BP.TJunction_Room_BP
+[2019.04.10-18.53.59:127][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Tree_4Way_BP.Tree_4Way_BP
+[2019.04.10-18.54.00:262][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Turn_Room_BP.Turn_Room_BP
+[2019.04.10-18.54.01:349][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Watchtower_TJunction_BP.Watchtower_TJunction_BP
+[2019.04.10-18.54.02:500][  8]LogFileCache: Retrieving MD5 hashes for directory 'D:/UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/' took 34.47s
+[2019.04.10-18.54.03:077][  8]LogSlate: Took 0.018217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.10-18.54.04:450][  9]LogSlate: Took 0.024944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.10-18.58.09:287][974]LogSlate: Window 'AdventurerCharacter' being destroyed
+[2019.04.10-19.09.00:200][135]LogRenderer: Reallocating scene render targets to support 968x540 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-19.09.58:043][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.10.08:941][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.10.09:011][781]LogRenderer: Reallocating scene render targets to support 968x544 Format 10 NumSamples 1 (Frame:684).
+[2019.04.10-19.10.09:913][832]LogRenderer: Reallocating scene render targets to support 968x584 Format 10 NumSamples 1 (Frame:696).
+[2019.04.10-19.10.09:986][833]LogRenderer: Reallocating scene render targets to support 968x596 Format 10 NumSamples 1 (Frame:698).
+[2019.04.10-19.10.17:168][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.10.34:721][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.10.34:792][  1]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.10.54:053][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.10.54:208][417]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.11.07:565][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.11.07:645][650]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.11.15:536][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.11.15:653][241]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.11.18:999][410]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.12.24:568][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.12.51:024][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.12.51:171][ 45]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.13.02:403][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.13.02:507][ 27]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.13.14:085][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.13.14:220][230]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-19.13.19:764][671]LogSlate: Took 0.000632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-19.36.10:390][627]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-19.36.10:457][627]LightingResults: New page: Lighting Build
+[2019.04.10-19.36.10:458][627]LoadErrors: New page: Loading map: GameMap.umap
+[2019.04.10-19.36.10:464][627]MapCheck: New page: Map Check
+[2019.04.10-19.36.10:464][627]LightingResults: New page: Lighting Build
+[2019.04.10-19.36.10:597][627]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.36.11:084][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-19.36.11:232][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-19.36.11:232][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.04.10-19.36.11:232][627]LogFileHelpers: Loading map 'GameMap' took 0.843
+[2019.04.10-19.36.11:239][627]LogSlate: Window 'Open Level' being destroyed
+[2019.04.10-19.36.14:744][825]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.36.14:814][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.36.14:814][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.36.14:827][825]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:36:14 AM)
+[2019.04.10-19.36.14:845][825]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.36.14:849][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003775s)
+[2019.04.10-19.36.14:850][825]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.36.14:850][825]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.04.10-19.36.14:850][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.004932s)
+[2019.04.10-19.36.14:934][825]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.36.15:090][825]LogInit: FAudioDevice initialized.
+[2019.04.10-19.36.15:170][825]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.36.15:185][825]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-15.36.15
+[2019.04.10-19.36.15:186][825]LogWorld: Bringing up level for play took: 0.001203
+[2019.04.10-19.36.15:265][825]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.04.10-19.36.15:490][825]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.36.15:490][825]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.36.15:490][825]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.36.15:490][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.36.15:490][825]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.36.15:490][825]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.36.15:514][825]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.36.15:514][825]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.36.15:514][825]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.36.15:514][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.36.15:514][825]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.36.15:514][825]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.36.15:543][825]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.631
+[2019.04.10-19.36.15:543][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.36.37:806][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-19.36.44:224][418]LogEditorViewport: Clicking on Actor (LMB): Tree_4Way_BP_C (Tree_4Way_BP)
+[2019.04.10-19.36.47:029][543]LogEditorViewport: Clicking on Actor (LMB): AdventurerCharacter_C (AdventurerCharacter)
+[2019.04.10-19.37.37:532][757]LogEditorViewport: Clicking on Actor (LMB): Starting_Room_BP_C (Starting_Room_BP)
+[2019.04.10-19.37.44:376][ 30]LogEditorViewport: Clicking on Actor (LMB): Tree_4Way_BP_C (Tree_4Way_BP)
+[2019.04.10-19.37.54:366][487]LogEditorViewport: Clicking on Actor (LMB): Watchtower_TJunction_BP_C (Watchtower_TJunction_BP3)
+[2019.04.10-19.38.01:002][750]LogEditorViewport: Clicking on Actor (LMB): Tree_4Way_BP_C (Tree_4Way_BP4)
+[2019.04.10-19.38.03:540][858]LogEditorViewport: Clicking on Actor (LMB): Tree_4Way_BP_C (Tree_4Way_BP4)
+[2019.04.10-19.38.06:715][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.39.51:643][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.39.51:644][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.39.51:692][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-19.39.51:692][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.39.51:747][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.39.52:105][497]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.04.10-19.39.54:527][633]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.39.54:546][633]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.41.15:590][358]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.41.15:623][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.41.15:623][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.41.15:623][358]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:41:15 AM)
+[2019.04.10-19.41.15:624][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.41.15:627][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003266s)
+[2019.04.10-19.41.15:628][358]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.41.15:628][358]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.04.10-19.41.15:628][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.004336s)
+[2019.04.10-19.41.15:674][358]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.41.15:925][358]LogInit: FAudioDevice initialized.
+[2019.04.10-19.41.15:948][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.41.16:081][358]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.41.16:084][358]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-15.41.16
+[2019.04.10-19.41.16:084][358]LogWorld: Bringing up level for play took: 0.001426
+[2019.04.10-19.41.16:335][358]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.41.16:335][358]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.41.16:335][358]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.41.16:335][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:335][358]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.41.16:335][358]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:335][358]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.41.16:335][358]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.41.16:335][358]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.41.16:336][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:336][358]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.41.16:336][358]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:346][358]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.41.16:346][358]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.41.16:346][358]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.41.16:346][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:346][358]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.41.16:347][358]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.41.16:385][358]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 1.472
+[2019.04.10-19.41.16:385][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.41.16:468][358]LogRenderer: Reallocating scene render targets to support 1024x596 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-19.41.33:712][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.41.33:712][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.41.33:729][ 90]LogSlate: Window 'Rnbw_Mrdr_Dth_Mz Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-19.41.33:767][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-19.41.33:767][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.41.33:986][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.10-19.41.36:576][192]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.41.36:592][192]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.46.17:987][209]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/4Way_Room_BP.4Way_Room_BP
+[2019.04.10-19.48.41:511][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.49.11:912][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.49.28:426][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.50.04:842][ 34]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/GameMap' took 0.035
+[2019.04.10-19.50.05:151][ 34]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode] ([1] browsable assets)...
+[2019.04.10-19.50.05:152][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode]
+[2019.04.10-19.50.05:436][ 34]LogSavePackage: Moving '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode_AuD67D5327407E9D465C1CE997C5018001.tmp' to '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode_Auto1.uasset'
+[2019.04.10-19.50.05:483][ 34]LogFileHelpers: Auto-saving content packages took 0.640
+[2019.04.10-19.50.15:260][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Tree_4Way_BP.Tree_4Way_BP
+[2019.04.10-19.52.14:879][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.52.14:906][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.52.14:907][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.52.14:907][631]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:52:14 AM)
+[2019.04.10-19.52.14:907][631]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.52.14:908][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001893s)
+[2019.04.10-19.52.14:908][631]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.52.14:908][631]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.04.10-19.52.14:908][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.002520s)
+[2019.04.10-19.52.14:950][631]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.52.15:019][631]LogInit: FAudioDevice initialized.
+[2019.04.10-19.52.15:024][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.52.15:099][631]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.52.15:101][631]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.10-15.52.15
+[2019.04.10-19.52.15:101][631]LogWorld: Bringing up level for play took: 0.000395
+[2019.04.10-19.52.15:185][631]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.52.15:185][631]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.52.15:186][631]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.52.15:186][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.52.15:186][631]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.52.15:186][631]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.52.15:186][631]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.52.15:186][631]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.52.15:186][631]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.52.15:186][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.52.15:186][631]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.52.15:186][631]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.52.15:191][631]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.279
+[2019.04.10-19.52.15:191][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.53.33:837][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.53.33:837][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.53.33:860][641]LogSlate: Window 'Rnbw_Mrdr_Dth_Mz Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.10-19.53.33:893][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-19.53.33:893][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.53.34:014][642]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.04.10-19.53.35:658][827]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.53.35:668][827]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.54.30:437][353]BlueprintLog: New page: Compile ProcedurallyGeneratedGameMode
+[2019.04.10-19.54.32:577][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.54.32:601][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.54.32:601][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.54.32:601][568]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:54:32 AM)
+[2019.04.10-19.54.32:601][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.54.32:603][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001891s)
+[2019.04.10-19.54.32:603][568]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.54.32:604][568]LogPlayLevel: PIE: World Init took: (0.000475s)
+[2019.04.10-19.54.32:604][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.002468s)
+[2019.04.10-19.54.32:642][568]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.54.32:709][568]LogInit: FAudioDevice initialized.
+[2019.04.10-19.54.32:741][568]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.54.32:742][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.10-15.54.32
+[2019.04.10-19.54.32:742][568]LogWorld: Bringing up level for play took: 0.000368
+[2019.04.10-19.54.32:819][568]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.54.32:819][568]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.54.32:819][568]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.54.32:819][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.54.32:819][568]LogScript: Warning: Accessed None
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01C7
+[2019.04.10-19.54.32:819][568]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.54.32:823][568]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.54.32:823][568]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.54.32:823][568]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ProcedurallyGeneratedGameMode_C /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap:PersistentLevel.ProcedurallyGeneratedGameMode_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C:SpawnRoom:01E6
+[2019.04.10-19.54.32:823][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.54.32:824][568]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.54.32:852][568]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap -0.059
+[2019.04.10-19.54.32:853][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.54.52:066][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-19.54.58:534][613]LogEditorViewport: Clicking on Actor (LMB): Tree_4Way_BP_C (Tree_4Way_BP)
+[2019.04.10-19.56.13:661][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.56.13:789][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.13:791][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.56.13:868][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-19.56.13:869][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.14:015][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.56.14:174][993]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.04.10-19.56.21:180][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.56.21:261][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.21:261][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.56.21:261][225]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:56:21 AM)
+[2019.04.10-19.56.21:262][225]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.56.21:269][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007798s)
+[2019.04.10-19.56.21:271][225]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.56.21:272][225]LogPlayLevel: PIE: World Init took: (0.001863s)
+[2019.04.10-19.56.21:272][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.010139s)
+[2019.04.10-19.56.21:413][225]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.56.21:686][225]LogInit: FAudioDevice initialized.
+[2019.04.10-19.56.21:731][225]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.56.21:734][225]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-15.56.21
+[2019.04.10-19.56.21:735][225]LogWorld: Bringing up level for play took: 0.001457
+[2019.04.10-19.56.22:048][225]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.56.22:049][225]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.56.22:049][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.56.22:049][225]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.56.22:049][225]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.56.22:049][225]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.56.22:050][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.56.22:050][225]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.56.22:132][225]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 1.22
+[2019.04.10-19.56.22:133][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.55:525][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.56.55:650][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.55:650][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.56.55:727][852]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-19.56.55:728][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.56.55:864][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-19.56.56:153][853]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.10-19.57.00:683][952]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/DeadEnd_BP.DeadEnd_BP
+[2019.04.10-19.57.04:012][ 32]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.57.04:062][ 32]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-19.57.41:794][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-19.58.54:417][805]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-19.58.54:523][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-19.58.54:525][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-19.58.54:525][805]PIE: New page: PIE session: GameMap (Apr 10, 2019, 11:58:54 AM)
+[2019.04.10-19.58.54:525][805]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-19.58.54:532][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006880s)
+[2019.04.10-19.58.54:533][805]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-19.58.54:534][805]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2019.04.10-19.58.54:534][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.008978s)
+[2019.04.10-19.58.54:696][805]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-19.58.54:998][805]LogInit: FAudioDevice initialized.
+[2019.04.10-19.58.55:043][805]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-19.58.55:046][805]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2019.04.10-15.58.55
+[2019.04.10-19.58.55:048][805]LogWorld: Bringing up level for play took: 0.001441
+[2019.04.10-19.58.55:348][805]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-19.58.55:348][805]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-19.58.55:349][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.58.55:349][805]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-19.58.55:441][805]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.529
+[2019.04.10-19.58.55:441][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.03.57:072][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.03.57:073][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-20.03.57:150][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-20.03.57:151][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.03.57:283][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-20.03.57:316][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.03.57:432][276]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.04.10-20.04.03:156][455]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.04.03:207][455]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.08.43:147][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/GameMap' took 0.038
+[2019.04.10-20.08.43:148][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode] ([1] browsable assets)...
+[2019.04.10-20.08.43:148][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode]
+[2019.04.10-20.08.43:191][616]LogSavePackage: Moving '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode_Au89C7EDBD4F8468F8A1E8A2AD6F2B2D70.tmp' to '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode_Auto2.uasset'
+[2019.04.10-20.08.43:191][616]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.04.10-20.12.15:723][ 92]BlueprintLog: New page: Compile ProcedurallyGeneratedGameMode
+[2019.04.10-20.12.18:992][456]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.10-20.12.19:018][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.12.19:018][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.10-20.12.19:018][456]PIE: New page: PIE session: GameMap (Apr 10, 2019, 12:12:19 PM)
+[2019.04.10-20.12.19:018][456]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.10-20.12.19:020][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2019.04.10-20.12.19:021][456]LogAIModule: Creating AISystem for world GameMap
+[2019.04.10-20.12.19:021][456]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.04.10-20.12.19:021][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.002722s)
+[2019.04.10-20.12.19:062][456]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.04.10-20.12.19:130][456]LogInit: FAudioDevice initialized.
+[2019.04.10-20.12.19:160][456]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.10-20.12.19:161][456]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.10-16.12.19
+[2019.04.10-20.12.19:161][456]LogWorld: Bringing up level for play took: 0.000413
+[2019.04.10-20.12.19:236][456]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-20.12.19:236][456]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-20.12.19:236][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-20.12.19:236][456]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-20.12.19:240][456]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'RoomList' of length 8 in '/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode_C'!
+[2019.04.10-20.12.19:240][456]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.04.10-20.12.19:240][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-20.12.19:240][456]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ProcedurallyGeneratedGameMode Function:  Spawn Room Graph:  ForEachLoop Node:  Branch
+[2019.04.10-20.12.19:260][456]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.347
+[2019.04.10-20.12.19:260][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.12.45:107][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.12.45:107][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-20.12.45:147][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.10-20.12.45:147][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.10-20.12.45:184][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-20.12.45:194][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-20.12.45:222][551]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.04.10-20.12.58:352][ 54]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.12.58:360][ 54]LogSlate: Window 'Message Log' being destroyed
+[2019.04.10-20.19.09:772][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/GameMap' took 0.033
+[2019.04.10-20.19.09:773][668]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode] ([1] browsable assets)...
+[2019.04.10-20.19.09:773][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode]
+[2019.04.10-20.19.09:811][668]LogSavePackage: Moving '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode_AuABF3BA974624FCAE823CA8AEAF91E307.tmp' to '../../../../../UnrealProjects/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode_Auto3.uasset'
+[2019.04.10-20.19.09:812][668]LogFileHelpers: Auto-saving content packages took 0.039
+[2019.04.10-21.17.53:471][654]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:478][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:479][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:479][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:479][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:479][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.10-21.17.53:481][654]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogHttp: Warning: 0000026F5E332FC0: HTTP request timed out after 12755.35 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD904FB1C-4DC4-1FD0-0B0A-B28B20017AFA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=96f1d9d74fd72855f81d36b89988d970%7C3c1c41dc7a6746d8a4856f1aff68e2d3%7Cc7d2e970-9857-4182-a049-1c47a5df07ca&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:509][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:510][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:511][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:512][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:513][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:514][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:515][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:516][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:517][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.21:518][705]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.11-00.50.23:073][706]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: request failed, libcurl error: 0 (No error)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26e80b9bfa0 [can pipeline])
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.42.24) port 443 (#61))
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 3 (upload completely sent off: 376 out of 376 bytes)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 4 (Closing connection 61)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: 0000026F5E332FC0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.04.11-00.50.23:073][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD904FB1C-4DC4-1FD0-0B0A-B28B20017AFA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=96f1d9d74fd72855f81d36b89988d970%7C3c1c41dc7a6746d8a4856f1aff68e2d3%7Cc7d2e970-9857-4182-a049-1c47a5df07ca&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.04.11-00.56.31:189][893]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
