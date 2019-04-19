@@ -1722,3 +1722,1360 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.19-04.54.43:702][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.04.19-04.54.43:726][445]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2019.04.19-04.55.25:262][840]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/GameMap05DD03CE4ED8EA6B99E03FAA491D2B7A.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/GameMap.umap'
+[2019.04.19-04.58.35:386][527]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.19-04.58.53:687][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:688][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:688][574]LoadErrors: Error: /Game/ProceduralRooms/Rooms/Enemy_Turn_BP : Can't find file for asset. /Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP
+[2019.04.19-04.58.53:688][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:688][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:688][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:688][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:689][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:689][574]LoadErrors: Failed to load /Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP.Room_Enemy_Turn_BP Referenced by Enemy_Turn_BP
+[2019.04.19-04.58.53:689][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Decorated/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:689][574]LoadErrors: Error: /Game/ProceduralRooms/Decorated/Enemy_Turn_BP : Can't find file for asset. /Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP
+[2019.04.19-04.58.53:690][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:690][574]LoadErrors: Failed to load /Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP.Room_Enemy_Turn_BP_C Referenced by Enemy_Turn_BP_C
+[2019.04.19-04.58.53:690][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Decorated/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:691][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:691][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Decorated/Enemy_Turn_BP.uasset.
+[2019.04.19-04.58.53:692][574]LogLinker: Warning: Can't find file '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP'
+[2019.04.19-04.58.53:692][574]LogLinker: Warning: Can't find file for asset '/Game/ProceduralRooms/Rooms/Room_Enemy_Turn_BP' while loading ../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Decorated/Enemy_Turn_BP.uasset.
+[2019.04.19-04.59.01:814][574]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.19-04.59.01:821][574]LoadErrors: Error: /Game/ProceduralRooms/Decorated/Enemy_Turn_BP : Failed import for Blueprint /Game/ProceduralRooms/Rooms/Enemy_Turn_BP.Enemy_Turn_BP [redirection] in /Game/ProceduralRooms/Decorated/Enemy_Turn_BP Referenced by export ObjectRedirector /Game/ProceduralRooms/Decorated/Enemy_Turn_BP.Enemy_Turn_BP
+[2019.04.19-04.59.37:647][608]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.19-04.59.53:981][188]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (52.151 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.04.19-05.00.00:679][829]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.Room_TJunction_Waterfall
+[2019.04.19-05.00.03:271][  1]LogSlate: Window 'Room_TJunction_Waterfall' being destroyed
+[2019.04.19-05.00.04:275][108]LogRenderer: Reallocating scene render targets to support 1004x508 Format 9 NumSamples 1 (Frame:1).
+[2019.04.19-05.00.23:567][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.00.54:895][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.01.08:556][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.01.22:022][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.01.46:119][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.02.00:066][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.02.05:475][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.02.05:893][756]BlueprintLog: New page: Compile Room_TJunction_Waterfall
+[2019.04.19-05.02.06:998][790]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall59A3FAC3400D31BC09DF0DA6F0F16A8B.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.02.39:104][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.03.14:304][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.03.32:641][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.03.32:707][801]BlueprintLog: New page: Compile Room_TJunction_Waterfall
+[2019.04.19-05.03.33:814][836]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall3972B98C4EA0BFD08863889BCDB06FC6.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.03.48:118][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.03.48:709][500]Cmd: TRANSACTION UNDO
+[2019.04.19-05.03.48:709][500]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.19-05.03.54:765][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.05.23:271][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/GameMap' took 0.052
+[2019.04.19-05.05.23:272][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall] ([1] browsable assets)...
+[2019.04.19-05.05.23:287][536]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.Room_TJunction_Waterfall]
+[2019.04.19-05.05.23:287][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall]
+[2019.04.19-05.05.23:374][536]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall_Auto134CC6B6448618651D588AD9E4EA75C1E.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Autosaves/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_Auto1.uasset'
+[2019.04.19-05.05.23:377][536]LogFileHelpers: Auto-saving content packages took 0.105
+[2019.04.19-05.06.08:934][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt06...
+[2019.04.19-05.06.08:971][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 60926 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt06.Footstep_Dirt06.
+[2019.04.19-05.06.08:971][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt07...
+[2019.04.19-05.06.08:982][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62342 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt07.Footstep_Dirt07.
+[2019.04.19-05.06.08:983][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt01...
+[2019.04.19-05.06.08:998][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 58852 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt01.Footstep_Dirt01.
+[2019.04.19-05.06.08:998][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt08...
+[2019.04.19-05.06.09:009][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62880 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt08.Footstep_Dirt08.
+[2019.04.19-05.06.09:009][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt05...
+[2019.04.19-05.06.09:019][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 61502 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt05.Footstep_Dirt05.
+[2019.04.19-05.06.09:019][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt04...
+[2019.04.19-05.06.09:030][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 63358 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt04.Footstep_Dirt04.
+[2019.04.19-05.06.09:030][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt03...
+[2019.04.19-05.06.09:041][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 62572 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt03.Footstep_Dirt03.
+[2019.04.19-05.06.09:041][880]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_Dirt02...
+[2019.04.19-05.06.09:051][880]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 56468 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_Dirt02.Footstep_Dirt02.
+[2019.04.19-05.06.10:805][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder07...
+[2019.04.19-05.06.10:825][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 85260 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder07.Footstep_WoodLadder07.
+[2019.04.19-05.06.10:826][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder06...
+[2019.04.19-05.06.10:846][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 92610 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder06.Footstep_WoodLadder06.
+[2019.04.19-05.06.10:846][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder01...
+[2019.04.19-05.06.10:863][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 65562 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder01.Footstep_WoodLadder01.
+[2019.04.19-05.06.10:864][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder02...
+[2019.04.19-05.06.10:883][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 70972 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder02.Footstep_WoodLadder02.
+[2019.04.19-05.06.10:884][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder03...
+[2019.04.19-05.06.10:903][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 73558 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder03.Footstep_WoodLadder03.
+[2019.04.19-05.06.10:903][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder05...
+[2019.04.19-05.06.10:922][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 88200 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder05.Footstep_WoodLadder05.
+[2019.04.19-05.06.10:922][ 85]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Footstep_WoodLadder04...
+[2019.04.19-05.06.10:944][ 85]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 77968 while cooking SoundWave /Game/SoulCave/Sound/Wav/Footstep_WoodLadder04.Footstep_WoodLadder04.
+[2019.04.19-05.06.25:211][680]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Waterfall04...
+[2019.04.19-05.06.25:303][680]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 599472 while cooking SoundWave /Game/SoulCave/Sound/Wav/AmbientLooping/Waterfall04.Waterfall04.
+[2019.04.19-05.06.29:620][156]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.06.29:637][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.06.29:638][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.19-05.06.29:641][156]LogPlayLevel: [PlayLevel] Compiling Room_TJunction_Waterfall before play...
+[2019.04.19-05.06.30:167][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 530 ms (1 blueprints)
+[2019.04.19-05.06.30:168][156]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:06:30 PM)
+[2019.04.19-05.06.30:168][156]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.06.30:170][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002480s)
+[2019.04.19-05.06.30:171][156]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.06.30:171][156]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.04.19-05.06.30:171][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.003336s)
+[2019.04.19-05.06.30:210][156]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.06.30:280][156]LogInit: FAudioDevice initialized.
+[2019.04.19-05.06.30:330][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.06.30:435][156]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.06.30:437][156]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.06.30
+[2019.04.19-05.06.30:437][156]LogWorld: Bringing up level for play took: 0.000592
+[2019.04.19-05.06.30:597][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.06.30:607][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:612][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:616][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:617][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.06.30:618][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:622][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:627][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:631][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:631][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.06.30:632][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:637][156]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.06.30:645][156]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.238
+[2019.04.19-05.06.30:645][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.06.34:297][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.06.34:297][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.06.34:315][538]LogSlate: Window 'Rnbw_Mrdr_Dth_Mz Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.19-05.06.34:353][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.06.34:353][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.06.34:411][539]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.04.19-05.06.56:223][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.07.35:371][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.07.48:775][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.11.49:799][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.12.26:597][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.12.51:972][711]BlueprintLog: New page: Compile Room_TJunction_Waterfall
+[2019.04.19-05.12.53:038][740]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall10F1133F486D70893C3E34B7F2A46AC7.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.12.54:144][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.12.54:160][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.12.54:160][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-05.12.54:161][858]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:12:54 PM)
+[2019.04.19-05.12.54:161][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.12.54:164][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003142s)
+[2019.04.19-05.12.54:165][858]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.12.54:165][858]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2019.04.19-05.12.54:165][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.004178s)
+[2019.04.19-05.12.54:211][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.12.54:284][858]LogInit: FAudioDevice initialized.
+[2019.04.19-05.12.54:316][858]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.12.54:318][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.12.54
+[2019.04.19-05.12.54:318][858]LogWorld: Bringing up level for play took: 0.000578
+[2019.04.19-05.12.54:453][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:454][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:470][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:490][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:492][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:502][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] retry  spawn end 
+[2019.04.19-05.12.54:507][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:512][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:517][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:517][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:518][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:522][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:527][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:527][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:528][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:533][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:537][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:537][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:538][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:542][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:547][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:547][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.12.54:548][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:553][858]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.12.54:558][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.152
+[2019.04.19-05.12.54:558][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.13.19:318][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.13.28:391][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.13.56:279][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.13.56:279][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.13.56:330][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.13.56:330][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.13.56:376][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.13.56:399][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.04.19-05.14.30:814][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.14.36:931][ 13]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Ambience)
+[2019.04.19-05.14.40:359][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.14.46:414][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.14.46:431][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.14.46:431][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-05.14.46:431][ 59]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:14:46 PM)
+[2019.04.19-05.14.46:431][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.14.46:434][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003232s)
+[2019.04.19-05.14.46:435][ 59]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.14.46:435][ 59]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2019.04.19-05.14.46:435][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.004190s)
+[2019.04.19-05.14.46:476][ 59]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.14.46:548][ 59]LogInit: FAudioDevice initialized.
+[2019.04.19-05.14.46:580][ 59]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.14.46:582][ 59]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.14.46
+[2019.04.19-05.14.46:582][ 59]LogWorld: Bringing up level for play took: 0.000524
+[2019.04.19-05.14.46:743][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:743][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.14.46:744][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:749][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:749][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.14.46:750][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:750][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.14.46:751][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:756][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:756][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.14.46:758][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:762][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:766][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:771][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:771][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.14.46:772][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:777][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:781][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:787][ 59]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.14.46:792][ 59]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.386
+[2019.04.19-05.14.46:792][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.15.32:302][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.15.32:303][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.15.32:349][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.15.32:349][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.15.32:396][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.15.32:420][481]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.04.19-05.15.32:968][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.15.40:007][344]BlueprintLog: New page: Compile Room_TJunction_Waterfall
+[2019.04.19-05.15.41:354][407]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall9E498F834DDC3E89ACB49F8610BB6EFF.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.15.43:490][618]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/GameMapB8C44482496F8D4FFF071581E428A111.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/GameMap.umap'
+[2019.04.19-05.15.50:641][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.15.50:657][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.15.50:657][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-05.15.50:658][ 41]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:15:50 PM)
+[2019.04.19-05.15.50:658][ 41]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.15.50:661][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002929s)
+[2019.04.19-05.15.50:661][ 41]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.15.50:661][ 41]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.04.19-05.15.50:662][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.003857s)
+[2019.04.19-05.15.50:703][ 41]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.15.50:774][ 41]LogInit: FAudioDevice initialized.
+[2019.04.19-05.15.50:808][ 41]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.15.50:810][ 41]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.15.50
+[2019.04.19-05.15.50:810][ 41]LogWorld: Bringing up level for play took: 0.000526
+[2019.04.19-05.15.50:967][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.50:997][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] retry  spawn end 
+[2019.04.19-05.15.51:002][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:007][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:007][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:008][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:008][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:009][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:009][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:010][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:010][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:011][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:015][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:015][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:017][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:022][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:026][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:031][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:036][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:041][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:041][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:042][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:047][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:047][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:048][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:048][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.15.51:049][ 41]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.15.51:054][ 41]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 0.648
+[2019.04.19-05.15.51:054][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.16.24:909][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.16.24:910][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.16.24:957][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.16.24:957][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.16.25:003][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.16.25:028][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.04.19-05.16.26:572][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.16.33:031][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.16.53:878][ 56]BlueprintLog: New page: Compile Room_TJunction_Waterfall
+[2019.04.19-05.16.54:972][ 90]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall0A44A6AB49CD4D75299708B75C4AB3EF.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.17.02:473][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.17.02:660][958]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_WaterfallF6B4CA194925630CAC0B75974DE3294A.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall.uasset'
+[2019.04.19-05.17.09:163][564]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Room_4Way_BP.Room_4Way_BP
+[2019.04.19-05.17.53:917][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.17.53:958][764]BlueprintLog: New page: Compile Room_4Way_BP
+[2019.04.19-05.17.54:876][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Rooms/Room_4Way_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_4Way_BP.uasset" SILENT=true
+[2019.04.19-05.17.54:971][814]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_4Way_BPF0879EBB44EC34AE7BA333BC80C761C2.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_4Way_BP.uasset'
+[2019.04.19-05.18.49:357][198]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_BP.Room_TurnLeft_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_BP.PackageMetaData'
+[2019.04.19-05.18.49:357][198]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_BP.SKEL_Room_TurnLeft_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_BP.PackageMetaData'
+[2019.04.19-05.18.49:523][198]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnLeft_BPF7510E384C2646ABFBC2E6BC75A3BB26.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnLeft_BP.uasset'
+[2019.04.19-05.18.49:887][198]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_Turn_Enemy_BP587F91FF432FA76AB4FF73B25F58A319.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.uasset'
+[2019.04.19-05.18.49:894][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Rooms/Turn_Room_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Turn_Room_BP.uasset" SILENT=true
+[2019.04.19-05.18.49:910][198]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Turn_Room_BPA54DF5904F16872F13B3618C66AF2BD4.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Turn_Room_BP.uasset'
+[2019.04.19-05.18.50:003][198]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode56E9E09F4F2B172067F53094E28FDC18.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.uasset'
+[2019.04.19-05.19.00:537][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:537][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:537][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:537][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:537][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:538][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:538][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:538][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:538][ 86]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.SKEL_Room_TurnLeft_Enemy_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_Turn_Enemy_BP.PackageMetaData'
+[2019.04.19-05.19.00:614][ 86]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnLeft_Enemy_BP7CCB4F404434E6E5583B5B88972AF6D4.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.uasset'
+[2019.04.19-05.19.18:856][690]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP
+[2019.04.19-05.19.21:062][817]LogSlate: Window 'Room_TurnRight_BP*' being destroyed
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.Room_TJunction_Waterfall_BP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.34:913][ 46]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.SKEL_Room_TJunction_Waterfall_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TJunction_Waterfall.PackageMetaData'
+[2019.04.19-05.19.35:024][ 46]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TJunction_Waterfall_BP402A58B24D2E800FCF1CEC8560AB7162.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TJunction_Waterfall_BP.uasset'
+[2019.04.19-05.19.35:547][ 46]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode4FD073EB42008FC4EACC0A9BCA5D4D9D.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.uasset'
+[2019.04.19-05.19.49:337][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.20.03:607][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.20.19:415][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.20.20:203][623]Cmd: TRANSACTION UNDO
+[2019.04.19-05.20.20:203][623]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.19-05.20.21:526][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.20.22:971][941]Cmd: TRANSACTION UNDO
+[2019.04.19-05.20.22:971][941]LogEditorTransaction: Undo Modify Component(s)
+[2019.04.19-05.20.24:130][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.20.36:720][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.21.02:326][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.21.02:484][550]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP7A6E6D3E442D757CAAE956B2E3D9C82D.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.21.03:718][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.21.26:668][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.21.30:372][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:902][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:903][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:903][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:904][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:905][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:906][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:908][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:909][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:910][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:922][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:923][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:923][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:924][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:925][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:926][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:928][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:929][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:930][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:931][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:932][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:933][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:939][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:940][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:941][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:942][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:945][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:945][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:945][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:945][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:946][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:947][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:948][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:949][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:950][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:950][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:951][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:952][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:953][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.04.19-05.21.31:954][ 17]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2019.04.19-05.21.48:977][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.22.08:198][819]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.19-05.22.56:309][ 27]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Room_TurnRight_BP.Room_TurnRight_BP
+[2019.04.19-05.23.00:928][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.23.01:559][432]LogSlate: Window 'Room_TurnRight_BP*' being destroyed
+[2019.04.19-05.23.02:321][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Room_TurnRight_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset" SILENT=true
+[2019.04.19-05.23.02:362][516]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP7DB21D8347FE7BFDE2A525A66BC8767E.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.23.53:277][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.24.10:837][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.24.54:115][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.25.16:253][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.25.33:635][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.26.01:174][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.26.03:888][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.26.09:578][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.26.38:765][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/GameMap' took 0.114
+[2019.04.19-05.26.38:767][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProceduralRooms/Room_TurnRight_BP] ([1] browsable assets)...
+[2019.04.19-05.26.38:785][147]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProceduralRooms/Room_TurnRight_BP.Room_TurnRight_BP]
+[2019.04.19-05.26.38:785][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralRooms/Room_TurnRight_BP]
+[2019.04.19-05.26.38:841][147]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP_Auto26505034B44BDA2E842BF0E87D47AD9E7.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Autosaves/Game/ProceduralRooms/Room_TurnRight_BP_Auto2.uasset'
+[2019.04.19-05.26.38:843][147]LogFileHelpers: Auto-saving content packages took 0.076
+[2019.04.19-05.27.31:048][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.27.59:396][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.28.27:677][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.28.41:979][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.29.12:984][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.29.38:602][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.29.56:645][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.30.11:719][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.30.27:957][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.31.17:143][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.31.45:079][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.32.01:270][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.32.01:377][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Room_TurnRight_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset" SILENT=true
+[2019.04.19-05.32.01:447][259]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP39AACA6E4F7C372C8F7D0BBADDCC57AE.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.33.27:329][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.33.49:501][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.34.05:950][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Room_TurnRight_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset" SILENT=true
+[2019.04.19-05.34.06:017][510]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BPD53C00B64EA0CF779A75EAA36C028239.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.35.10:399][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.35.30:178][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.35.58:941][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.35.59:009][264]BlueprintLog: New page: Compile Room_TurnRight_BP
+[2019.04.19-05.36.01:078][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Room_TurnRight_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset" SILENT=true
+[2019.04.19-05.36.01:153][339]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP22B40F3147E674E4300C3D91FA228AD8.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.36.06:956][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.36.58:786][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.37.46:538][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.37.48:137][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.38.10:171][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.38.24:367][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.39.10:721][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.39.49:559][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.39.55:617][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.40.34:148][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.41.21:435][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.41.21:517][318]BlueprintLog: New page: Compile Room_TurnRight_BP
+[2019.04.19-05.41.31:144][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.41.50:738][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProceduralRooms/Room_TurnRight_BP" FILE="../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset" SILENT=true
+[2019.04.19-05.41.50:815][625]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP32ED5D0645A3EBA8C7F0D59A3C64F040.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.41.51:268][676]BlueprintLog: New page: Compile Room_TurnRight_BP
+[2019.04.19-05.41.55:596][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:UserConstructionScript' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Arch_4' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Arch_3' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Arch_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Arch_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_12' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_11' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_10' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_9' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_8' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_7' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_6' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_5' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_24' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_23' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_22' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_21' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_4' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_3' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Wall_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_20' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_19' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_18' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.Room_TurnRight_BP_C:Ground_17' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:UserConstructionScript' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:686][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Arch_4' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Arch_3' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Arch_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Arch_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_12' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_11' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_10' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_9' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_8' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_7' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_6' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_5' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_24' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_23' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_22' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_21' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_4' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_3' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_2' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Wall_1' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_20' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_19' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_18' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:Ground_17' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:ReceiveTick' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:687][799]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP.SKEL_Room_TurnRight_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/ProceduralRooms/Room_TurnRight_BP.PackageMetaData'
+[2019.04.19-05.42.02:793][799]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_BP9E83DD994C9882370F517792429698D0.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_BP.uasset'
+[2019.04.19-05.43.24:397][360]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.SKEL_Room_TurnRight_Enemy_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP1.PackageMetaData'
+[2019.04.19-05.43.24:397][360]LogMetaData: Removing '/Game/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.Room_TurnRight_Enemy_BP_C' ref from Metadata '/Game/ProceduralRooms/Rooms/Room_TurnRight_BP1.PackageMetaData'
+[2019.04.19-05.43.24:489][360]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_Enemy_BP3B13A41E4BB8D13C34E5009416BC574F.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.uasset'
+[2019.04.19-05.43.26:651][511]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.Room_TurnRight_Enemy_BP
+[2019.04.19-05.43.37:535][744]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.43.47:000][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.44.10:832][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.44.10:925][362]BlueprintLog: New page: Compile Room_TurnRight_Enemy_BP
+[2019.04.19-05.44.11:881][396]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_Enemy_BPA839BAE04B1E6879FAA85BA4C07ACD15.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.uasset'
+[2019.04.19-05.44.14:994][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.Room_TurnLeft_Enemy_BP
+[2019.04.19-05.44.20:000][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.44.45:492][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.44.53:226][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.44.58:903][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.45.27:257][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.45.42:159][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.45.54:524][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.46.05:558][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.46.49:072][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.46.54:984][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.46.59:234][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.05:079][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.19:779][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.24:436][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.28:902][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.31:369][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.47.40:472][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.48.01:339][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.48.02:060][370]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_Enemy_BP672F4C8341CAA435F26086B4834C3142.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.uasset'
+[2019.04.19-05.48.17:554][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.48.31:585][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.49.12:603][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.49.12:677][299]BlueprintLog: New page: Compile Room_TurnRight_Enemy_BP
+[2019.04.19-05.49.14:269][345]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnRight_Enemy_BP1245039B4D8AC85771BFEC939D957D39.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnRight_Enemy_BP.uasset'
+[2019.04.19-05.49.18:564][782]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/GameMap15EEEF0944337447B8DF79ACD610FDA0.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/GameMap.umap'
+[2019.04.19-05.49.21:191][990]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/GameMap4A04B2B64CCDD7D67B55488590D71CE3.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Maps/GameMap.umap'
+[2019.04.19-05.49.24:296][ 75]LogSlate: Window 'Save Content' being destroyed
+[2019.04.19-05.49.24:423][ 75]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/Room_TurnLeft_Enemy_BP9F5CBD7949564ABCAE1863A455D783DC.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ProceduralRooms/Rooms/Room_TurnLeft_Enemy_BP.uasset'
+[2019.04.19-05.49.27:463][389]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.19-05.49.51:576][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.ProcedurallyGeneratedGameMode
+[2019.04.19-05.50.36:181][390]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.19-05.50.53:554][125]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.04.19-05.51.06:856][645]BlueprintLog: New page: Compile ProcedurallyGeneratedGameMode
+[2019.04.19-05.51.07:770][680]LogSavePackage: Moving '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Saved/ProcedurallyGeneratedGameMode076510A04876DF4CAAC3A6BC292C6CA0.tmp' to '../../../../GitHub/Rainbow-Murder-Death-Maze/Rnbw_Mrdr_Dth_Mz/Content/ThirdPersonBP/Blueprints/ProcedurallyGeneratedGameMode.uasset'
+[2019.04.19-05.51.09:109][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.51.09:125][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.51.09:125][824]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.19-05.51.09:128][824]LogPlayLevel: [PlayLevel] Compiling Room_TurnLeft_Enemy_BP before play...
+[2019.04.19-05.51.09:372][824]LogPlayLevel: PlayLevel: Blueprint regeneration took 246 ms (1 blueprints)
+[2019.04.19-05.51.09:372][824]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:51:09 PM)
+[2019.04.19-05.51.09:372][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.51.09:375][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003408s)
+[2019.04.19-05.51.09:376][824]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.51.09:376][824]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.04.19-05.51.09:377][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.004514s)
+[2019.04.19-05.51.09:423][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.51.09:496][824]LogInit: FAudioDevice initialized.
+[2019.04.19-05.51.09:530][824]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.51.09:532][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.51.09
+[2019.04.19-05.51.09:533][824]LogWorld: Bringing up level for play took: 0.000579
+[2019.04.19-05.51.09:659][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.09:742][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:747][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:748][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.09:749][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:753][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:758][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:758][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.09:759][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:764][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:769][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:773][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:773][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.09:774][824]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.09:779][824]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 1.372
+[2019.04.19-05.51.09:779][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.51.57:724][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.51.58:306][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.51.58:307][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.51.58:348][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.51.58:348][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.51.58:395][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.51.58:416][246]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.04.19-05.51.59:102][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.19-05.51.59:118][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.51.59:118][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-05.51.59:118][325]PIE: New page: PIE session: GameMap (Apr 18, 2019, 8:51:59 PM)
+[2019.04.19-05.51.59:119][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap
+[2019.04.19-05.51.59:121][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002606s)
+[2019.04.19-05.51.59:122][325]LogAIModule: Creating AISystem for world GameMap
+[2019.04.19-05.51.59:122][325]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.04.19-05.51.59:122][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMap.GameMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap (0.003487s)
+[2019.04.19-05.51.59:164][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.19-05.51.59:237][325]LogInit: FAudioDevice initialized.
+[2019.04.19-05.51.59:269][325]LogLoad: Game class is 'ProcedurallyGeneratedGameMode_C'
+[2019.04.19-05.51.59:271][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2019.04.19-01.51.59
+[2019.04.19-05.51.59:271][325]LogWorld: Bringing up level for play took: 0.000572
+[2019.04.19-05.51.59:394][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:395][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:403][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:418][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:418][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:419][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:424][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:424][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:425][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:425][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:426][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:426][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:427][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:431][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:435][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:440][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:440][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:441][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:441][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:442][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:442][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] invalid spawn point
+[2019.04.19-05.51.59:443][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:447][325]LogBlueprintUserMessages: [ProcedurallyGeneratedGameMode_C_0] dead end
+[2019.04.19-05.51.59:452][325]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMap 1.045
+[2019.04.19-05.51.59:452][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.52.41:202][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.19-05.52.41:295][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.52.41:295][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.52.41:338][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.19-05.52.41:338][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2019.04.19-05.52.41:382][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.19-05.52.41:402][939]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.04.19-05.53.24:615][470]LogSlate: Window 'Rnbw_Mrdr_Dth_Mz - Unreal Editor' being destroyed
+[2019.04.19-05.53.24:865][471]Cmd: QUIT_EDITOR
+[2019.04.19-05.53.25:045][471]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-05.53.25:261][471]LogExit: Preparing to exit.
+[2019.04.19-05.53.25:857][471]LogExit: Editor shut down
+[2019.04.19-05.53.25:858][471]LogExit: Transaction tracking system shut down
+[2019.04.19-05.53.26:535][471]LogExit: Object subsystem successfully closed.
+[2019.04.19-05.53.26:573][471]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.19-05.53.26:589][471]LogD3D11RHI: Shutdown
+[2019.04.19-05.53.26:590][471]LogD3D11RHI: CleanupD3DDevice
+[2019.04.19-05.53.26:600][471]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.19-05.53.26:611][471]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.04.19-05.53.26:612][471]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.04.19-05.53.26:615][471]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.04.19-05.53.26:615][471]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.04.19-05.53.26:615][471]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.19-05.53.26:616][471]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.19-05.53.26:617][471]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.19-05.53.26:618][471]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.19-05.53.27:493][471]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.19-05.53.27:494][471]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.19-05.53.27:494][471]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.19-05.53.27:494][471]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.19-05.53.27:494][471]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.19-05.53.27:494][471]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.19-05.53.27:549][471]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.19-05.53.27:550][471]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.19-05.53.27:550][471]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.19-05.53.27:550][471]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.19-05.53.27:563][471]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.19-05.53.27:564][471]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.19-05.53.27:568][471]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.19-05.53.27:569][471]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.19-05.53.27:570][471]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.19-05.53.27:575][471]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.19-05.53.27:672][471]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.19-05.53.27:681][471]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.19-05.53.27:682][471]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.19-05.53.27:683][471]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.19-05.53.27:684][471]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.19-05.53.27:785][471]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.19-05.53.27:886][471]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.19-05.53.27:888][471]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.19-05.53.27:888][471]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.19-05.53.27:888][471]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.19-05.53.27:888][471]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.19-05.53.27:889][471]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.19-05.53.27:892][471]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.19-05.53.27:892][471]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.19-05.53.27:892][471]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.19-05.53.27:892][471]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.19-05.53.27:893][471]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.19-05.53.27:893][471]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.19-05.53.27:893][471]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.19-05.53.27:895][471]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.19-05.53.27:901][471]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.19-05.53.27:902][471]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.19-05.53.27:905][471]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.19-05.53.27:905][471]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.19-05.53.27:905][471]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.19-05.53.27:905][471]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.19-05.53.27:905][471]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.19-05.53.27:906][471]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.19-05.53.27:907][471]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.19-05.53.27:966][471]LogDerivedDataCache: Shutdown
+[2019.04.19-05.53.27:966][471]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.19-05.53.27:967][471]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.19-05.53.27:968][471]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.19-05.53.27:968][471]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.19-05.53.27:984][471]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.19-05.53.27:984][471]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.19-05.53.27:984][471]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.19-05.53.27:984][471]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.19-05.53.27:984][471]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.19-05.53.27:990][471]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.19-05.53.27:990][471]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.19-05.53.27:994][471]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.19-05.53.27:994][471]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.19-05.53.28:036][471]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.19-05.53.28:037][471]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.19-05.53.28:037][471]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.19-05.53.28:038][471]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.19-05.53.28:039][471]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.19-05.53.28:062][471]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.19-05.53.28:062][471]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.19-05.53.28:062][471]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF91A862-4B22-207C-1460-708805862168%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=888d6adc4561ca10459a5a90f6a9dda6%7Cffb34aa25625427d8ddf5f41aa50384d%7Cefadc1a6-2532-4efb-afcf-3d86c922e399&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.19-05.53.28:075][471]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.19-05.53.28:077][471]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.19-05.53.28:078][471]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.19-05.53.28:078][471]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.19-05.53.28:078][471]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.19-05.53.28:079][471]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.19-05.53.28:081][471]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.19-05.53.28:089][471]LogExit: Exiting.
+[2019.04.19-05.53.28:107][471]Log file closed, 04/19/19 01:53:28
